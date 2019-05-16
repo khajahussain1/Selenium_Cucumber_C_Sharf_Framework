@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybrideFramework", "HybrideFramework\HybrideFramework.csproj", "{473861F7-34BD-405B-B83E-9262B7D00339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_Cucumber_C_Sharf_Framework", "Selenium_Cucumber_C_Sharf_Framework\Selenium_Cucumber_C_Sharf_Framework.csproj", "{3F768F66-26C1-4CDD-AE9D-9FE4CC3EC32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473861F7-34BD-405B-B83E-9262B7D00339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473861F7-34BD-405B-B83E-9262B7D00339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473861F7-34BD-405B-B83E-9262B7D00339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473861F7-34BD-405B-B83E-9262B7D00339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F768F66-26C1-4CDD-AE9D-9FE4CC3EC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F768F66-26C1-4CDD-AE9D-9FE4CC3EC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F768F66-26C1-4CDD-AE9D-9FE4CC3EC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F768F66-26C1-4CDD-AE9D-9FE4CC3EC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326C0866-1798-47A7-B77E-FBC7298B68F2}
+	EndGlobalSection
+EndGlobal
