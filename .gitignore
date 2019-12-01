@@ -1,6 +1,1 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-
-*.lock
+﻿/.vs/Selenium_Cucumber_C_Sharf_Framework/v16/Server/sqlite3/db.lock
